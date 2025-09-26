@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx">
+      <s:element name="wsGrabarDocumentoElectronico">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ambiente" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="nombreBase" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="xmlTexto" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="respuestaSRI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="email" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="recepcion" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="wsGrabarDocumentoElectronicoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wsGrabarDocumentoElectronicoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="wsGrabarDocumentoElectronicoSoapIn">
+    <wsdl:part name="parameters" element="tns:wsGrabarDocumentoElectronico" />
+  </wsdl:message>
+  <wsdl:message name="wsGrabarDocumentoElectronicoSoapOut">
+    <wsdl:part name="parameters" element="tns:wsGrabarDocumentoElectronicoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsarchivoselectronicosofflineSoap">
+    <wsdl:operation name="wsGrabarDocumentoElectronico">
+      <wsdl:input message="tns:wsGrabarDocumentoElectronicoSoapIn" />
+      <wsdl:output message="tns:wsGrabarDocumentoElectronicoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsarchivoselectronicosofflineSoap" type="tns:wsarchivoselectronicosofflineSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="wsGrabarDocumentoElectronico">
+      <soap:operation soapAction="http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx/wsGrabarDocumentoElectronico" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsarchivoselectronicosofflineSoap12" type="tns:wsarchivoselectronicosofflineSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="wsGrabarDocumentoElectronico">
+      <soap12:operation soapAction="http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx/wsGrabarDocumentoElectronico" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsarchivoselectronicosoffline">
+    <wsdl:port name="wsarchivoselectronicosofflineSoap" binding="tns:wsarchivoselectronicosofflineSoap">
+      <soap:address location="http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsarchivoselectronicosofflineSoap12" binding="tns:wsarchivoselectronicosofflineSoap12">
+      <soap12:address location="http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

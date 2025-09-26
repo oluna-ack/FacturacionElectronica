@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\firmarStdSri.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\app.config" />
+  <event action="Analyze" type="Success" name="rideDeb.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideDeb.resx" />
+  <event action="Analyze" type="Success" name="rideFact.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideFact.resx" />
+  <event action="Analyze" type="Success" name="rideFactLiquidacion.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideFactLiquidacion.resx" />
+  <event action="Analyze" type="Success" name="rideFacV2.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideFacV2.resx" />
+  <event action="Analyze" type="Success" name="rideFacV3.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideFacV3.resx" />
+  <event action="Analyze" type="Success" name="rideFacV4.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideFacV4.resx" />
+  <event action="Analyze" type="Success" name="rideFacV5.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideFacV5.resx" />
+  <event action="Analyze" type="Success" name="rideNc.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideNc.resx" />
+  <event action="Analyze" type="Success" name="rideNcV2.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideNcV2.resx" />
+  <event action="Analyze" type="Success" name="rideNcV3.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideNcV3.resx" />
+  <event action="Analyze" type="Success" name="rideNcV4.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideNcV4.resx" />
+  <event action="Analyze" type="Success" name="rideRem.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideRem.resx" />
+  <event action="Analyze" type="Success" name="rideRet.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideRet.resx" />
+  <event action="Analyze" type="Success" name="firmarStdSri" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\firmarStdSri.csproj" />
+  <event action="Analyze" type="Success" name="firmarStdSri" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri.sln" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\firmarStdSri.csproj" />
+  <event action="Upgrade" type="Success" name="rideFact.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideFact.resx" />
+  <event action="Upgrade" type="Success" name="rideFactLiquidacion.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideFactLiquidacion.resx" />
+  <event action="Upgrade" type="Success" name="rideNc.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideNc.resx" />
+  <event action="Upgrade" type="Success" name="rideRem.resx" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\rideRem.resx" />
+  <event action="Upgrade" type="Success" name="firmarStdSri" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\firmarStdSri.csproj" />
+  <event action="Upgrade" type="Success" name="firmarStdSri" path="E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri.sln" />
+</log>

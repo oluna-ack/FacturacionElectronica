@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1CE7F99E-41D8-4367-8A68-068AFB61AF69}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>firmarStdSri</RootNamespace>
+    <AssemblyName>firmarStdSri</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IKVM.OpenJDK.Core, Version=0.42.0.6, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>recursos\IKVM.OpenJDK.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Security, Version=0.42.0.6, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>recursos\IKVM.OpenJDK.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.API, Version=0.42.0.6, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>recursos\IKVM.OpenJDK.XML.API.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.Parse, Version=0.42.0.6, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>recursos\IKVM.OpenJDK.XML.Parse.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>recursos\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="MITyCLibAPI-1.0.4, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>recursos\MITyCLibAPI-1.0.4.dll</HintPath>
+    </Reference>
+    <Reference Include="MITyCLibCert-1.0.4, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>recursos\MITyCLibCert-1.0.4.dll</HintPath>
+    </Reference>
+    <Reference Include="MITyCLibXADES-1.0.4, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>recursos\MITyCLibXADES-1.0.4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Net.Http">
+      <HintPath>recursos\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Reporting, Version=13.2.19.1030, Culture=neutral, PublicKeyToken=a9d7983dfcc261be">
+      <HintPath>C:\Program Files (x86)\Progress\Telerik Reporting R3 2019\bin\Telerik.Reporting.dll</HintPath>
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+    <Reference Include="Telerik.ReportViewer.WebForms, Version=13.2.19.1030, Culture=neutral, PublicKeyToken=a9d7983dfcc261be">
+      <HintPath>C:\Program Files (x86)\Progress\Telerik Reporting R3 2019\bin\Telerik.ReportViewer.WebForms.dll</HintPath>
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="emailSender.cs" />
+    <Compile Include="firmaSri.cs" />
+    <Compile Include="formasPago.cs" />
+    <Compile Include="helpers\ConfigHelper.cs" />
+    <Compile Include="helpers\WSHelper.cs" />
+    <Compile Include="helpers\XMLHelper.cs" />
+    <Compile Include="modelo\RespuestaSRI.cs" />
+    <Compile Include="obtenerComprobante.cs" />
+    <Compile Include="operacionesComprobantes.cs" />
+    <Compile Include="PassStoreKS.cs" />
+    <Compile Include="pdfGenerator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="rideDeb.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideDeb.Designer.cs">
+      <DependentUpon>rideDeb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideFactServ.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideFactServ.Designer.cs">
+      <DependentUpon>rideFactServ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideFact.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideFact.Designer.cs">
+      <DependentUpon>rideFact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideFactLiquidacion.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideFactLiquidacion.Designer.cs">
+      <DependentUpon>rideFactLiquidacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideFacV2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideFacV2.Designer.cs">
+      <DependentUpon>rideFacV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideFacV3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideFacV3.Designer.cs">
+      <DependentUpon>rideFacV3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideFacV4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideFacV4.Designer.cs">
+      <DependentUpon>rideFacV4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideFacV5.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideFacV5.Designer.cs">
+      <DependentUpon>rideFacV5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideNc.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideNc.Designer.cs">
+      <DependentUpon>rideNc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideNcV2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideNcV2.Designer.cs">
+      <DependentUpon>rideNcV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideNcV3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideNcV3.Designer.cs">
+      <DependentUpon>rideNcV3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideNcV4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideNcV4.Designer.cs">
+      <DependentUpon>rideNcV4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideRem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideRem.Designer.cs">
+      <DependentUpon>rideRem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rideRet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rideRet.Designer.cs">
+      <DependentUpon>rideRet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\subirDocumentosElectronicos\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\wsGrabarDocV3Test\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\wsGrabarDocV3\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="recursos\commons-logging-1.1.dll" />
+    <Content Include="recursos\IKVM.OpenJDK.Core.dll" />
+    <Content Include="recursos\IKVM.OpenJDK.Security.dll" />
+    <Content Include="recursos\IKVM.OpenJDK.Util.dll" />
+    <Content Include="recursos\IKVM.OpenJDK.XML.API.dll" />
+    <Content Include="recursos\IKVM.OpenJDK.XML.Parse.dll" />
+    <Content Include="recursos\IKVM.Runtime.dll" />
+    <Content Include="recursos\Ionic.Zip.dll" />
+    <Content Include="recursos\MITyCLibAPI-1.0.4.dll" />
+    <Content Include="recursos\MITyCLibCert-1.0.4.dll" />
+    <Content Include="recursos\MITyCLibXADES-1.0.4.dll" />
+    <Content Include="recursos\xmlsec-1.4.2-ADSI-1.0.dll" />
+    <None Include="Web References\subirDocumentosElectronicos\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\subirDocumentosElectronicos\wsarchivoselectronicosoffline.disco" />
+    <None Include="Web References\subirDocumentosElectronicos\wsarchivoselectronicosoffline.wsdl" />
+    <None Include="Web References\wsGrabarDocV3Test\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\wsGrabarDocV3Test\wsGrabarDoc.disco" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\wsGrabarDocV3Test\wsGrabarDoc.wsdl" />
+    <None Include="Web References\wsGrabarDocV3\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\wsGrabarDocV3\wsGrabarDoc.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Web References\wsGrabarDocV3\wsGrabarDoc.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\subirDocumentosElectronicos\</RelPath>
+      <UpdateFromURL>http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>firmarStdSri_subirDocumentosElectronicos_wsarchivoselectronicosoffline</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\wsGrabarDocV3\</RelPath>
+      <UpdateFromURL>http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>firmarStdSri_wsGrabarDocV3_wsGrabarDoc</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://facturas.acklins.net/WsSiteCargasDescargasAckTest/wsGrabarDoc.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\wsGrabarDocV3Test\</RelPath>
+      <UpdateFromURL>http://facturas.acklins.net/WsSiteCargasDescargasAckTest/wsGrabarDoc.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>firmarStdSri_wsGrabarDocV3Test_wsGrabarDoc</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="rideDeb.resx">
+      <DependentUpon>rideDeb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideFactServ.resx">
+      <DependentUpon>rideFactServ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideFact.resx">
+      <DependentUpon>rideFact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideFactLiquidacion.resx">
+      <DependentUpon>rideFactLiquidacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideFacV2.resx">
+      <DependentUpon>rideFacV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideFacV3.resx">
+      <DependentUpon>rideFacV3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideFacV4.resx">
+      <DependentUpon>rideFacV4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideFacV5.resx">
+      <DependentUpon>rideFacV5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideNc.resx">
+      <DependentUpon>rideNc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideNcV2.resx">
+      <DependentUpon>rideNcV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideNcV3.resx">
+      <DependentUpon>rideNcV3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideNcV4.resx">
+      <DependentUpon>rideNcV4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideRem.resx">
+      <DependentUpon>rideRem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rideRet.resx">
+      <DependentUpon>rideRet.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

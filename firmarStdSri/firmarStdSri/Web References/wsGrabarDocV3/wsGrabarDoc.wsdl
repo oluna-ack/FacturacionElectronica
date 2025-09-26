@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx">
+      <s:element name="GrabarDatosDocumentoXml">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idTipoDocumento" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="nombreBd" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="numeroDocumento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="numeroIdentificacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="correo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="titulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="descripcion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="visible" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="archivo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="automatico" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="tamanoArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="periodo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="idGrupo" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="nomArchRef" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Direccion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="xmlArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pathArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pathArchivoAutorizado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="numeroAutorizacion" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="autorizacion" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="ambiente" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GrabarDatosDocumentoXmlResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GrabarDatosDocumentoXmlResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GrabarDatosDocumentoXmlLab">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idTipoDocumento" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="nombreBd" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="numeroDocumento" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="numeroIdentificacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="correo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="titulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="descripcion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="visible" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="archivo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="automatico" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="tamanoArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="periodo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="idGrupo" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="nomArchRef" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Direccion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="xmlArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pathArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pathArchivoAutorizado" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="numeroAutorizacion" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="autorizacion" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="ambiente" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GrabarDatosDocumentoXmlLabResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GrabarDatosDocumentoXmlLabResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GrabarDatosDocumentoXmlSoapIn">
+    <wsdl:part name="parameters" element="tns:GrabarDatosDocumentoXml" />
+  </wsdl:message>
+  <wsdl:message name="GrabarDatosDocumentoXmlSoapOut">
+    <wsdl:part name="parameters" element="tns:GrabarDatosDocumentoXmlResponse" />
+  </wsdl:message>
+  <wsdl:message name="GrabarDatosDocumentoXmlLabSoapIn">
+    <wsdl:part name="parameters" element="tns:GrabarDatosDocumentoXmlLab" />
+  </wsdl:message>
+  <wsdl:message name="GrabarDatosDocumentoXmlLabSoapOut">
+    <wsdl:part name="parameters" element="tns:GrabarDatosDocumentoXmlLabResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsGrabarDocSoap">
+    <wsdl:operation name="GrabarDatosDocumentoXml">
+      <wsdl:input message="tns:GrabarDatosDocumentoXmlSoapIn" />
+      <wsdl:output message="tns:GrabarDatosDocumentoXmlSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GrabarDatosDocumentoXmlLab">
+      <wsdl:input message="tns:GrabarDatosDocumentoXmlLabSoapIn" />
+      <wsdl:output message="tns:GrabarDatosDocumentoXmlLabSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsGrabarDocSoap" type="tns:wsGrabarDocSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GrabarDatosDocumentoXml">
+      <soap:operation soapAction="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx/GrabarDatosDocumentoXml" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GrabarDatosDocumentoXmlLab">
+      <soap:operation soapAction="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx/GrabarDatosDocumentoXmlLab" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsGrabarDocSoap12" type="tns:wsGrabarDocSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GrabarDatosDocumentoXml">
+      <soap12:operation soapAction="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx/GrabarDatosDocumentoXml" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GrabarDatosDocumentoXmlLab">
+      <soap12:operation soapAction="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx/GrabarDatosDocumentoXmlLab" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsGrabarDoc">
+    <wsdl:port name="wsGrabarDocSoap" binding="tns:wsGrabarDocSoap">
+      <soap:address location="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsGrabarDocSoap12" binding="tns:wsGrabarDocSoap12">
+      <soap12:address location="http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

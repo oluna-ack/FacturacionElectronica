@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emailEnvioSri", "emailEnvioSri\emailEnvioSri\emailEnvioSri.csproj", "{29A48321-C78C-4579-9CA1-5302FD79E50E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firmaAutorizacionSri", "firmaAutorizacionSri\firmaAutorizacionSri\firmaAutorizacionSri.csproj", "{CA83B0E1-4C69-42B0-9508-692010698E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firmaEnvioSri", "firmaEnvioSri\firmaEnvioSri\firmaEnvioSri.csproj", "{3FF40059-B594-4A14-B995-C810385F0081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firmarStdSri", "firmarStdSri\firmarStdSri\firmarStdSri.csproj", "{1CE7F99E-41D8-4367-8A68-068AFB61AF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "revisionSriEnvio", "revisionSriEnvio\revisionSriEnvio\revisionSriEnvio.csproj", "{5537E307-B3FD-451F-BD43-056D1B7364B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A48321-C78C-4579-9CA1-5302FD79E50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A48321-C78C-4579-9CA1-5302FD79E50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A48321-C78C-4579-9CA1-5302FD79E50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A48321-C78C-4579-9CA1-5302FD79E50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA83B0E1-4C69-42B0-9508-692010698E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA83B0E1-4C69-42B0-9508-692010698E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA83B0E1-4C69-42B0-9508-692010698E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA83B0E1-4C69-42B0-9508-692010698E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF40059-B594-4A14-B995-C810385F0081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF40059-B594-4A14-B995-C810385F0081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF40059-B594-4A14-B995-C810385F0081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF40059-B594-4A14-B995-C810385F0081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE7F99E-41D8-4367-8A68-068AFB61AF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE7F99E-41D8-4367-8A68-068AFB61AF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE7F99E-41D8-4367-8A68-068AFB61AF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE7F99E-41D8-4367-8A68-068AFB61AF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5537E307-B3FD-451F-BD43-056D1B7364B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5537E307-B3FD-451F-BD43-056D1B7364B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5537E307-B3FD-451F-BD43-056D1B7364B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5537E307-B3FD-451F-BD43-056D1B7364B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F483DA0A-B5E9-45B8-8263-70FE5A37FA30}
+	EndGlobalSection
+EndGlobal

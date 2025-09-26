@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollos cmina\\FacturacionElectronica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A48321-C78C-4579-9CA1-5302FD79E50E}|emailEnvioSri\\emailEnvioSri\\emailEnvioSri.csproj|C:\\Desarrollos cmina\\FacturacionElectronica\\emailenviosri\\emailenviosri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A48321-C78C-4579-9CA1-5302FD79E50E}|emailEnvioSri\\emailEnvioSri\\emailEnvioSri.csproj|solutionrelative:emailenviosri\\emailenviosri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF40059-B594-4A14-B995-C810385F0081}|firmaEnvioSri\\firmaEnvioSri\\firmaEnvioSri.csproj|c:\\desarrollos cmina\\facturacionelectronica\\firmaenviosri\\firmaenviosri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF40059-B594-4A14-B995-C810385F0081}|firmaEnvioSri\\firmaEnvioSri\\firmaEnvioSri.csproj|solutionrelative:firmaenviosri\\firmaenviosri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5537E307-B3FD-451F-BD43-056D1B7364B1}|revisionSriEnvio\\revisionSriEnvio\\revisionSriEnvio.csproj|C:\\Desarrollos cmina\\FacturacionElectronica\\revisionsrienvio\\revisionsrienvio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5537E307-B3FD-451F-BD43-056D1B7364B1}|revisionSriEnvio\\revisionSriEnvio\\revisionSriEnvio.csproj|solutionrelative:revisionsrienvio\\revisionsrienvio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF40059-B594-4A14-B995-C810385F0081}|firmaEnvioSri\\firmaEnvioSri\\firmaEnvioSri.csproj|c:\\desarrollos cmina\\facturacionelectronica\\firmaenviosri\\firmaenviosri\\app_code\\bll\\clsneg_operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF40059-B594-4A14-B995-C810385F0081}|firmaEnvioSri\\firmaEnvioSri\\firmaEnvioSri.csproj|solutionrelative:firmaenviosri\\firmaenviosri\\app_code\\bll\\clsneg_operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA83B0E1-4C69-42B0-9508-692010698E56}|firmaAutorizacionSri\\firmaAutorizacionSri\\firmaAutorizacionSri.csproj|c:\\desarrollos cmina\\facturacionelectronica\\firmaautorizacionsri\\firmaautorizacionsri\\app_code\\bll\\clsneg_operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA83B0E1-4C69-42B0-9508-692010698E56}|firmaAutorizacionSri\\firmaAutorizacionSri\\firmaAutorizacionSri.csproj|solutionrelative:firmaautorizacionsri\\firmaautorizacionsri\\app_code\\bll\\clsneg_operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA83B0E1-4C69-42B0-9508-692010698E56}|firmaAutorizacionSri\\firmaAutorizacionSri\\firmaAutorizacionSri.csproj|C:\\Desarrollos cmina\\FacturacionElectronica\\firmaautorizacionsri\\firmaautorizacionsri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA83B0E1-4C69-42B0-9508-692010698E56}|firmaAutorizacionSri\\firmaAutorizacionSri\\firmaAutorizacionSri.csproj|solutionrelative:firmaautorizacionsri\\firmaautorizacionsri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF40059-B594-4A14-B995-C810385F0081}|firmaEnvioSri\\firmaEnvioSri\\firmaEnvioSri.csproj|C:\\Desarrollos cmina\\FacturacionElectronica\\firmaenviosri\\firmaenviosri\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FF40059-B594-4A14-B995-C810385F0081}|firmaEnvioSri\\firmaEnvioSri\\firmaEnvioSri.csproj|solutionrelative:firmaenviosri\\firmaenviosri\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 309,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsNeg_operaciones.cs",
+              "DocumentMoniker": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaEnvioSri\\firmaEnvioSri\\App_Code\\BLL\\clsNeg_operaciones.cs",
+              "RelativeDocumentMoniker": "firmaEnvioSri\\firmaEnvioSri\\App_Code\\BLL\\clsNeg_operaciones.cs",
+              "ToolTip": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaEnvioSri\\firmaEnvioSri\\App_Code\\BLL\\clsNeg_operaciones.cs",
+              "RelativeToolTip": "firmaEnvioSri\\firmaEnvioSri\\App_Code\\BLL\\clsNeg_operaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:50:16.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsNeg_operaciones.cs",
+              "DocumentMoniker": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaAutorizacionSri\\firmaAutorizacionSri\\App_Code\\BLL\\clsNeg_operaciones.cs",
+              "RelativeDocumentMoniker": "firmaAutorizacionSri\\firmaAutorizacionSri\\App_Code\\BLL\\clsNeg_operaciones.cs",
+              "ToolTip": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaAutorizacionSri\\firmaAutorizacionSri\\App_Code\\BLL\\clsNeg_operaciones.cs",
+              "RelativeToolTip": "firmaAutorizacionSri\\firmaAutorizacionSri\\App_Code\\BLL\\clsNeg_operaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:43:02.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaEnvioSri\\firmaEnvioSri\\App.config",
+              "RelativeDocumentMoniker": "firmaEnvioSri\\firmaEnvioSri\\App.config",
+              "ToolTip": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaEnvioSri\\firmaEnvioSri\\App.config",
+              "RelativeToolTip": "firmaEnvioSri\\firmaEnvioSri\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-23T00:49:51.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollos cmina\\FacturacionElectronica\\revisionSriEnvio\\revisionSriEnvio\\Program.cs",
+              "RelativeDocumentMoniker": "revisionSriEnvio\\revisionSriEnvio\\Program.cs",
+              "ToolTip": "C:\\Desarrollos cmina\\FacturacionElectronica\\revisionSriEnvio\\revisionSriEnvio\\Program.cs",
+              "RelativeToolTip": "revisionSriEnvio\\revisionSriEnvio\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:52:00.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaEnvioSri\\firmaEnvioSri\\Program.cs",
+              "RelativeDocumentMoniker": "firmaEnvioSri\\firmaEnvioSri\\Program.cs",
+              "ToolTip": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaEnvioSri\\firmaEnvioSri\\Program.cs",
+              "RelativeToolTip": "firmaEnvioSri\\firmaEnvioSri\\Program.cs",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAgwGIBAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:01:47.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaAutorizacionSri\\firmaAutorizacionSri\\Program.cs",
+              "RelativeDocumentMoniker": "firmaAutorizacionSri\\firmaAutorizacionSri\\Program.cs",
+              "ToolTip": "C:\\Desarrollos cmina\\FacturacionElectronica\\firmaAutorizacionSri\\firmaAutorizacionSri\\Program.cs",
+              "RelativeToolTip": "firmaAutorizacionSri\\firmaAutorizacionSri\\Program.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAKkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:01:44.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollos cmina\\FacturacionElectronica\\emailEnvioSri\\emailEnvioSri\\Program.cs",
+              "RelativeDocumentMoniker": "emailEnvioSri\\emailEnvioSri\\Program.cs",
+              "ToolTip": "C:\\Desarrollos cmina\\FacturacionElectronica\\emailEnvioSri\\emailEnvioSri\\Program.cs",
+              "RelativeToolTip": "emailEnvioSri\\emailEnvioSri\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:07:38.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 91,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

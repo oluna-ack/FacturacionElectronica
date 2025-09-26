@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="firmarStdSri.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="firmarStdSri_wsGrabarDocV3_wsGrabarDoc" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://facturas.acklins.net/WsSiteCargasDescargasAck/wsGrabarDoc.asmx</Value>
+    </Setting>
+    <Setting Name="firmarStdSri_wsGrabarDocV3Test_wsGrabarDoc" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://facturas.acklins.net/WsSiteCargasDescargasAckTest/wsGrabarDoc.asmx</Value>
+    </Setting>
+    <Setting Name="firmarStdSri_subirDocumentosElectronicos_wsarchivoselectronicosoffline" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://facturas.acklins.net/wsArchivosElectronicosOffline/wsarchivoselectronicosoffline.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

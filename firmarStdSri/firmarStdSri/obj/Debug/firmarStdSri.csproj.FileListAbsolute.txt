@@ -1,0 +1,336 @@
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideDeb.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFact.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV2.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV3.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV4.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV5.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNc.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV2.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV3.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRem.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRet.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.GenerateResource.Cache
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll.licenses
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll.config
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.pdb
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Ionic.Zip.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.Runtime.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\commons-logging-1.1.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.xml
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.pdb
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.xml
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.pdb
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.xml
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.pdb
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV4.resources
+C:\Users\aemerchan.DELTAMONTERO\Documents\Visual Studio 2015\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csprojResolveAssemblyReference.cache
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll.config
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.pdb
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Ionic.Zip.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.Runtime.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\commons-logging-1.1.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.pdb
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.xml
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.pdb
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.xml
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csprojAssemblyReference.cache
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideDeb.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFact.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV2.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV3.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV4.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV5.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNc.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV2.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV3.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV4.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRem.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRet.resources
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.GenerateResource.cache
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll.licenses
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CoreCompileInputs.cache
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CopyComplete
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll
+C:\Users\augusto\Documents\Visual Studio 2017\Projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.pdb
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll.config
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.pdb
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Ionic.Zip.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.Runtime.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\commons-logging-1.1.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csprojAssemblyReference.cache
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideDeb.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFact.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV2.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV3.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV4.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV5.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNc.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV2.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV3.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV4.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRem.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRet.resources
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.GenerateResource.cache
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll.licenses
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CoreCompileInputs.cache
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CopyComplete
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.pdb
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.pdb
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.xml
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.pdb
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.xml
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.dll
+C:\Users\augusto\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.xml
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideDeb.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFact.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV2.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV3.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV4.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV5.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNc.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV2.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV3.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV4.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRem.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRet.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.GenerateResource.Cache
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll.licenses
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.pdb
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll.config
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.pdb
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Ionic.Zip.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.Runtime.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\commons-logging-1.1.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.xml
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFactLiquidacion.resources
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csprojAssemblyReference.cache
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CopyComplete
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.dll
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.pdb
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.xml
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.pdb
+C:\Users\AugustoMerchan\Documents\Visual Studio 2019\projects\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.xml
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll.config
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.pdb
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Ionic.Zip.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibAPI-1.0.4.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibCert-1.0.4.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibXADES-1.0.4.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.Runtime.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\commons-logging-1.1.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibTSA-1.0.4.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.xml
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideDeb.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFact.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFactLiquidacion.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV2.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV3.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV4.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV5.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNc.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV2.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV3.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV4.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRem.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRet.resources
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.GenerateResource.cache
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll.licenses
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.pdb
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.dll
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.pdb
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.xml
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.pdb
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.xml
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CoreCompileInputs.cache
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CopyComplete
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.AssemblyReference.cache
+E:\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFactServ.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideDeb.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFactServ.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFact.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFactLiquidacion.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV2.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV3.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV4.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV5.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNc.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV2.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV3.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV4.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRem.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRet.resources
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.GenerateResource.cache
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll.licenses
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.pdb
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll.config
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.pdb
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Ionic.Zip.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.Runtime.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\commons-logging-1.1.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\System.Net.Http.xml
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.pdb
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.Reporting.xml
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.pdb
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\bin\Debug\Telerik.ReportViewer.WebForms.xml
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CopyComplete
+C:\Desarrollos\Software Facturacion Fuentes\facturacionAcklins\firmarStdSri\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.AssemblyReference.cache
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll.config
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.pdb
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\Ionic.Zip.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\IKVM.Runtime.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\commons-logging-1.1.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.AssemblyReference.cache
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideDeb.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFactServ.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFact.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFactLiquidacion.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV2.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV3.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV4.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV5.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNc.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV2.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV3.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV4.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRem.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRet.resources
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.GenerateResource.cache
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll.licenses
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CoreCompileInputs.cache
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarSt.39BDF42E.Up2Date
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll
+C:\Desarrollos cmina\Tareas Azure Fuentes\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.pdb
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll.config
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\firmarStdSri.pdb
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\Ionic.Zip.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\IKVM.Runtime.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\commons-logging-1.1.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.AssemblyReference.cache
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideDeb.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFactServ.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFact.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFactLiquidacion.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV2.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV3.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV4.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideFacV5.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNc.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV2.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV3.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideNcV4.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRem.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.rideRet.resources
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.GenerateResource.cache
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll.licenses
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.csproj.CoreCompileInputs.cache
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarSt.39BDF42E.Up2Date
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.dll
+C:\Desarrollos cmina\FacturacionElectronica\firmarStdSri\firmarStdSri\obj\Debug\firmarStdSri.pdb

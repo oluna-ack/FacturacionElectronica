@@ -1,0 +1,11 @@
+.vs/
+*.user
+*.suo
+
+# Builds
+bin/
+obj/
+
+# Archivos temporales
+*.cache
+*.log
